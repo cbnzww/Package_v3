@@ -1,0 +1,13 @@
+﻿  Moc'ing myclass.h...
+  Uic'ing myclass.ui...
+  Rcc'ing myclass.qrc...
+RCC : warning : No resources in 'D:\Device_Resource_Package_V3.0\Device_Resource_Package_V3.0\myclass.qrc'.
+  
+  stdafx.cpp
+  moc_myclass.cpp
+  main.cpp
+  myclass.cpp
+  正在生成代码...
+  qrc_myclass.cpp
+  Device_Resource_Package_V3.0.vcxproj -> D:\Device_Resource_Package_V3.0\Win32\Debug\Device_Resource_Package_V3.0.exe
+  Device_Resource_Package_V3.0.vcxproj -> D:\Device_Resource_Package_V3.0\Win32\Debug\Device_Resource_Package_V3.0.pdb (Full PDB)
